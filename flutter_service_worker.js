@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "272e44778e4109953a265b12aefc1439",
-"assets/AssetManifest.bin.json": "6cce037e0098e3be17452b2d657c38d6",
-"assets/AssetManifest.json": "4bed225da8dda1ba741d019def198e46",
+const RESOURCES = {"assets/AssetManifest.bin": "edf5a39e2f2aacd2aa6444b3a0d4aea4",
+"assets/AssetManifest.bin.json": "3fe829ca61b7f933592254100c03dba6",
+"assets/AssetManifest.json": "1231a6f2fe485b3c7ba38541697fd7ab",
 "assets/assets/gif/apple.png": "cb93fea13aba65874de553c7e0b0cfcc",
 "assets/assets/gif/loading.gif": "b3bc707f397bdc792b8929ee30cd3fd4",
 "assets/assets/images/Apk_logo.png": "2e274eb15e0d5b1b01c8d2ef297b780d",
@@ -17,10 +17,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "272e44778e4109953a265b12aefc1439
 "assets/assets/images/shorts.png": "8bd5ca8b3b3c965dd656c0077ced3425",
 "assets/assets/images/tiktok.png": "b51d8e9f552ca6bf36a7d17d26bca58a",
 "assets/assets/images/tiktokArtis.png": "d1d8aacd0645c1a7a0ec0a6bafd5a993",
+"assets/assets/images/website.png": "fb65ac1cc151b277975e92f13bf4c196",
 "assets/assets/images/yt.png": "03aee6817ab84e7f1a261adb694059b8",
 "assets/FontManifest.json": "578fa61108a9a871931214344b9060a7",
-"assets/fonts/MaterialIcons-Regular.otf": "9645116608b5b5b9fae0020c1cb499b4",
-"assets/NOTICES": "448e52faa7c7df468a550da0866b858c",
+"assets/fonts/MaterialIcons-Regular.otf": "14ddd7f3d96e3be0d6e2c28828447f45",
+"assets/NOTICES": "1608e95809a7d4192c7d087cc70a8f28",
 "assets/packages/awesome_dialog/assets/flare/error.flr": "e3b124665e57682dab45f4ee8a16b3c9",
 "assets/packages/awesome_dialog/assets/flare/info.flr": "bc654ba9a96055d7309f0922746fe7a7",
 "assets/packages/awesome_dialog/assets/flare/info2.flr": "21af33cb65751b76639d98e106835cfb",
@@ -50,14 +51,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "272e44778e4109953a265b12aefc1439
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "bf5a7d0549c0a9b273331b3d7abdfaf6",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "5023e6b16dae72b54c9d820e5573a569",
+"flutter_bootstrap.js": "aca1fe5ea63225e72c898706c21cb3c5",
 "icons/Icon-192.png": "7e2d0f0cb685faa232d4cb8af3566e19",
 "icons/Icon-512.png": "09d6682372389d9e1ca30af4e4cf70de",
 "icons/Icon-maskable-192.png": "7e2d0f0cb685faa232d4cb8af3566e19",
 "icons/Icon-maskable-512.png": "09d6682372389d9e1ca30af4e4cf70de",
 "index.html": "26db0c86f611c4494245139e14af6412",
 "/": "26db0c86f611c4494245139e14af6412",
-"main.dart.js": "ae1c9b81ab3a6b06d404b90a4ecd2743",
+"main.dart.js": "5d5e2675529246ea504b182ca68e6936",
 "manifest.json": "e17e254bc6589cf90812d9ca4eb23201",
 "version.json": "182f318ffcf957dae2499151b69f4e2f"};
 // The application shell files that are downloaded before a service worker can
